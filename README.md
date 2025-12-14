@@ -69,6 +69,28 @@ The system follows **clean architecture principles** and simulates a **real-worl
 - Secured admin-only and user-only routes
 
 ---
+
+## 🤖 AI Usage
+
+### AI Tools Used
+- **ChatGPT (OpenAI)**
+- **Claude (Anthropic)**
+
+### How AI Was Used
+
+- **ChatGPT** was used to:
+  - Design and plan application functionalities
+  - Structure frontend components and routing logic
+  - Understand and implement **JWT-based authentication** in the backend using Spring Boot
+  - Improve code readability and follow best practices
+  - Assist in writing clear and professional README documentation
+
+- **Claude** was used to:
+  - Debug frontend and backend integration issues
+  - Identify and fix runtime and logic errors in the application
+  - Analyze error messages and suggest corrective solutions during development
+---
+
 # ⚙️ Backend Installation & Setup Guide  
 (Spring Boot + MongoDB + JWT)
 
