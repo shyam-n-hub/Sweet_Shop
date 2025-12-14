@@ -116,7 +116,7 @@ mvn -version
 ## 📂 Clone the Repository
 ```bash
 git clone https://github.com/shyam-n-hub/sweet_shop.git
-cd sweet/sweet_backend
+cd sweet_backend/sweet
 ```
 
 ## ⚙️ Configure Application Properties
@@ -126,7 +126,7 @@ Add or update the following:
 spring.data.mongodb.uri=mongodb://localhost:27017/sweetshop
 spring.data.mongodb.database=sweetshop
 
-jwt.secret=your_secret_key
+jwt.secret=MyVerySecureSweetShopSecretKeyThatIsAtLeast32CharactersLong!@#$%
 jwt.expiration=86400000
 
 server.port=8080
@@ -168,7 +168,7 @@ npm -v
 ## 📂 Clone the Repository
 ```bash
 git clone https://github.com/shyam-n-hub/sweet_shop.git
-cd sweet/sweet_frontend
+cd sweet_frontend/sweet
 ```
 ## 📦 Install Dependencies
 Install all required packages:
